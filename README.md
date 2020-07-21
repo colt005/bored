@@ -40,6 +40,7 @@ Contributions are what make the open source community such an amazing place to b
 ## Acknowledgements
 
 This project uses the [BORED API](http://www.boredapi.com/)
+Icons by [SVGREPO](https://www.svgrepo.com/)
 
 ### Dart Packages used
 * [http](https://pub.dev/packages/http)
