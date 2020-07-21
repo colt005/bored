@@ -38,6 +38,9 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 ## Acknowledgements
+
+This project uses the [BORED API](http://www.boredapi.com/)
+
 ### Dart Packages used
 * [http](https://pub.dev/packages/http)
 * [get_it](https://pub.dev/packages/get_it)
@@ -48,5 +51,3 @@ Contributions are what make the open source community such an amazing place to b
 * [google_fonts](https://pub.dev/packages/google_fonts)
 * [flutter_icons](https://pub.dev/packages/flutter_icons)
 
-
-This project uses the [BORED API](http://www.boredapi.com/)
