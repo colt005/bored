@@ -28,7 +28,7 @@ class _SplashScreenState extends State<SplashScreen> {
          crossAxisAlignment: CrossAxisAlignment.center,
          mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            SvgPicture.asset('assets/bored.svg',height: 150,width: 150,fit: BoxFit.fitHeight,color: Color.fromRGBO(255, 221, 142, 1),),
+            SvgPicture.asset('assets/sqbored.svg',height: 150,width: 150,fit: BoxFit.fitHeight,color: Color.fromRGBO(255, 221, 142, 1),),
             SizedBox(
               height: 30,
             ),

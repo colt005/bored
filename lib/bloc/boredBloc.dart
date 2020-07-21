@@ -11,8 +11,8 @@ class BoredBloc with ChangeNotifier {
   String get activityString => _activityString;
 
 
-  Future getActivity() async {
-    _activityString = await _jsonService.getACtivity();
+  Future getActivity(String type) async {
+    _activityString = await _jsonService.getACtivity(type);
     notifyListeners();
   }
 
