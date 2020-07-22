@@ -3,7 +3,7 @@
 ## About The Project
 
 A Flutter app that helps you find things to do when you're bored!
-![splashsreen](/screenshots/splashscreen.jpg?raw=true)
+![splashsreen](/screenshots/splashscreen.jpg)
 
 ### Built With
 * [Flutter](https://flutter.dev/)
